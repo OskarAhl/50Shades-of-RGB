@@ -8,3 +8,4 @@ HTML, CSS, Vanilla JavaScript
 ## Basic Functionality:
 - Array with random colors 
 - Boxes with "click" eventlisteners that compare clicked color with the correct RGB color
+- Effects created with CSS (hover & transition: 0.3s) 
