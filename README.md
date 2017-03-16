@@ -4,7 +4,7 @@ Guess the color game. Click the color that responds to the RGB index shown on to
 ## Stack:
 HTML, CSS, Vanilla JavaScript
 
-## Basic Functionality:
+## How is it made?
 - Array with random colors 
 - Boxes with "click" eventlisteners that compare clicked color with the correct RGB color
 - Effects created with CSS (hover & transition) 
