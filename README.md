@@ -8,3 +8,6 @@ HTML, CSS, Vanilla JavaScript
 - Array with random colors 
 - Boxes with "click" eventlisteners that compare clicked color with the correct RGB color
 - Effects created with CSS (hover & transition) 
+
+## Try the game here:
+[https://oskarahl.github.io/50Shades-of-RGB/](https://oskarahl.github.io/50Shades-of-RGB/)
